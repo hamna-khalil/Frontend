@@ -1,0 +1,2 @@
+Streamlit: https://frontend-mwyxgnhf2zxmf9zj2w6ayf.streamlit.app/
+Azure App Service: https://mdpswebapp.azurewebsites.net/
